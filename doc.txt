@@ -1,0 +1,2 @@
+# Este es la manera de abrir el editor de VSCODE
+# code ./ -r
